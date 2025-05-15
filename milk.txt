@@ -1,16 +1,1 @@
 
-switch from test to prodution mode
-upload docker image to glcoud
-set up api call for docker image flutterflow 
-SEO
-add image genaration/interpetion
-Get ai's to work togeather eg shared history 
-UI improvemnts 
-set up stripe weebhooks
-add llma deepseekr1 reaserch other AIs
-listining and text to speech
-desktop app
-
-
-Post HOG
-OPtimzer functions 
