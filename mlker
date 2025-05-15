@@ -1,0 +1,3 @@
+def milk():
+    print('2')
+milk()
