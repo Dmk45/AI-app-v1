@@ -14,7 +14,7 @@ from vertexai.generative_models import (
     grounding,
 )
 import anthropic
-project_id = "milk2-32695"
+project_id = "------"
 anthropic_key= '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'
 vertexai.init(project=project_id, location="us-central1")
 
